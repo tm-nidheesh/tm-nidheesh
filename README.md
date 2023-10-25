@@ -2,20 +2,17 @@
 <h1 align="center">Hi 👋, I'm Nidheesh T M.</h1>
 <h3 align="center">I am a data science learner and enthusiast, with a passion for using data to drive insights and make informed decisions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tm-nidheesh" alt="tm-nidheesh" /></a> </p>
-
-- 🌱 I’m currently learning **Machine learning, deep learning.**
+- 🌱 I’m currently learning **Machine learning, Deep learning, Natural Language Processing.**
 <img align= "right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/tm-nidheesh](https://github.com/tm-nidheesh)
 
 - 📝 I write articles on [https://medium.com/@tm.nidheesh95](https://medium.com/@tm.nidheesh95)
 
-- 💬 Ask me about **ML, DL, Statistics.**
+- 💬 Ask me about **ML, DL, Nlp, Statistics.**
 
 - 📫 How to reach me **tm.nidheesh95@gmail.com**
 
-- ⚡ Fun fact **I think, I think too much.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tm-nidheesh&show_icons=true&locale=en&layout=compact" alt="tm-nidheesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tm-nidheesh&show_icons=true&locale=en" alt="tm-nidheesh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tm-nidheesh&" alt="tm-nidheesh" /></p>
-
