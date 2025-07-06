@@ -16,7 +16,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Generative AI, LangChain, RAG.**
+- 🌱 I’m currently learning **Pyspark, Databricks, Delta Live Tables.**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/tm-nidheesh)
 - 📝 I write articles on [Medium](https://medium.com/@tm.nidheesh95)
 
